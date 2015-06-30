@@ -3,7 +3,8 @@
   "version": "0.40.0",
   "authors": [
     "TeamDev <info@teamdev.it>", 
-    "Paolo Possanzini<paolo@teamdev.it>"
+    "Paolo Possanzini<paolo@teamdev.it>",
+    "Enrico Sodacci<e.sodacci@teamdev.it>"
   ],
   "description": "AngularJS Module for ESRI Maps",
   "main": "js/teamdev.esri.js",
